@@ -1,5 +1,3 @@
-// document.getElementbyId("count").innerText=20
-
 let cookies = document.getElementById("cookies")
 
 console.log(cookies)
